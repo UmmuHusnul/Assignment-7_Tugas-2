@@ -10,6 +10,7 @@ Berikut merupakan hasil untuk beberapa metode
 Dan hasil jumlah sel darah yang diperoleh
 # Jumlah Sel Darah: 
 Internal: 185
+
 Eksternal: 4
 
 Jumlah Keseluruhan Sel Darah: 189
