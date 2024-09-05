@@ -8,8 +8,8 @@ Berikut merupakan hasil untuk beberapa metode
 ![image](https://github.com/user-attachments/assets/bae02c74-b178-4fa4-8f71-bfb7b52be154)
 
 Dan hasil jumlah sel darah yang diperoleh
-**Jumlah Sel Darah: 
+# Jumlah Sel Darah: 
 Internal: 185
 Eksternal: 4
 
-Jumlah Keseluruhan Sel Darah: 189**
+Jumlah Keseluruhan Sel Darah: 189
